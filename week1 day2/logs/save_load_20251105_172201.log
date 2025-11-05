@@ -1,0 +1,3 @@
+2025-11-05 17:22:06,334 | INFO | save_load | Loaded latest file: model\logistic_regression_2025-11-05_17-21-47.pkl
+2025-11-05 17:22:06,337 | INFO | save_load | Loaded latest file: artifacts\standard_scaler_2025-11-05_17-21-47.pkl
+2025-11-05 17:22:06,350 | INFO | save_load | Loaded latest file: artifacts\default_feature_values_2025-11-05_17-21-45.pkl
