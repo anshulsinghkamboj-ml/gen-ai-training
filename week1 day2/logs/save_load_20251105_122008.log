@@ -1,0 +1,2 @@
+2025-11-05 12:20:08,557 | INFO | save_load | File saved at model\model_logistic_regression_2025-11-05_12-20-08.pkl
+2025-11-05 12:20:08,558 | ERROR | save_load | No saved versions found for logistic_regression in model

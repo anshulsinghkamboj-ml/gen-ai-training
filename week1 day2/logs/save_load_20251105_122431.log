@@ -1,0 +1,2 @@
+2025-11-05 12:24:31,537 | INFO | save_load | File saved at model\logistic_regression_2025-11-05_12-24-31.pkl
+2025-11-05 12:24:31,542 | INFO | save_load | Loaded latest file: model\logistic_regression_2025-11-05_12-24-31.pkl

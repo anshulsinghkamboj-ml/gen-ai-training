@@ -2,6 +2,7 @@ from data_loader import load_data
 from scaler import scale
 from split_data import split
 from log import get_logger
+from save_load import save_file,load_latest_file
 logger = get_logger(__name__)
 
 X,y=load_data()
@@ -20,3 +21,6 @@ from performance import performance
 performance(y_pred,y_test)
 
 #savingmodel
+save_file(model, base_dir="model", base_name="logistic_regression")
+
+latest_model = load_latest_file(base_dir="model", base_name="logistic_regression")
